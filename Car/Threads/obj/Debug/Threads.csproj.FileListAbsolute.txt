@@ -1,0 +1,6 @@
+D:\Users\Student\Documents\Visual Studio 2017\Projects\String-SplittedOnFiels\Car\Threads\bin\Debug\Threads.exe
+D:\Users\Student\Documents\Visual Studio 2017\Projects\String-SplittedOnFiels\Car\Threads\bin\Debug\Threads.pdb
+D:\Users\Student\Documents\Visual Studio 2017\Projects\String-SplittedOnFiels\Car\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+D:\Users\Student\Documents\Visual Studio 2017\Projects\String-SplittedOnFiels\Car\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+D:\Users\Student\Documents\Visual Studio 2017\Projects\String-SplittedOnFiels\Car\Threads\obj\Debug\Threads.exe
+D:\Users\Student\Documents\Visual Studio 2017\Projects\String-SplittedOnFiels\Car\Threads\obj\Debug\Threads.pdb
